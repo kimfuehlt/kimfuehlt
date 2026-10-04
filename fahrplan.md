@@ -11,3 +11,5 @@ Feste Reihenfolge, keine Fristen. Abhaken, was fertig ist. Die Reihenfolge darf 
 
 ## Erst danach: Helfer
 Wenn das Fundament steht, bauen wir daraus Skills und weitere Assistentinnen, zum Beispiel für Captions, Karussells oder den „Was ist heute dran?“-Check-in.
+
+- [ ] Content-Agent bauen, der mein Trello-Content-Board selbst befüllt (Vorbild: Julia Nickel / Inner Impact). Erst wenn die Brand Voice steht.

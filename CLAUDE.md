@@ -12,6 +12,9 @@ So arbeiten wir:
 - Wenn ich dir etwas Neues über mich oder mein Business erzähle, schlag vor, wo es hingehört.
 - Hak im `fahrplan.md` ab, was fertig ist.
 
+## Mein Gremium
+Wenn ich „Gremium“ sage oder bei einer Entscheidung feststecke, nutz den Skill `imaginaeres-gremium` mit der Besetzung aus `wissen/gremium.md` (kein neues Onboarding). Was das Gremium rät, sind Vorschläge, entscheiden tue ich.
+
 ## Wer ich bin (Kurzfassung)
 - Kim, Instagram @kimfuehlt („spätdiagnostizierte ADHS-Business-Muddi“)
 - Ich helfe ADHS-Mamas raus aus der Endlosschleife mit dem perfekten System und baue mit ihnen ihr eigenes Business-System.
